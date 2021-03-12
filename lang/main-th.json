@@ -374,7 +374,7 @@
         "noRoom": "No room was specified to dial-in into.",
         "numbers": "Dial-in Numbers",
         "password": "$t(lockRoomPasswordUppercase):",
-        "title": "แชร์,
+        "title": "แชร์",
         "tooltip": "แชร์ลิงก์และข้อมูลการโทรเข้าสำหรับการประชุมนี้",
         "label": "ข้อมูลการโทรเข้า"
     },
